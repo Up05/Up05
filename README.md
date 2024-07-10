@@ -1,7 +1,5 @@
 ###
-
-I do coding, as, I think, you can see.
-
+I do coding.
 
 
 
