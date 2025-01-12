@@ -16,6 +16,7 @@ List of things I've published:
 - `f`: (Windows) (WIP) A proper file manager for Windows, because explorer.exe is just sh*t... But I'm not sure, if I'll finish `f` before 2025-10-14...
 - [tetris](https://github.com/Up05/tetris): (Linux) A simple, yet riceable, tetris clone I made for Linux.
 - [extract](https://github.com/Up05/extract): (Linux) As the description states: "It is made to extract all the god damn files..."
+- [kheaders](https://github.com/Up05/mkheaders): Produces a header file of all functions from a directory of C source files. (does not necessarily work with cpp/c3/...) 
 - [kb-homepage](https://github.com/Up05/dead-simple-startpage): Fast to load & keyboard-centric website made to quickly select website to go to. 
 - [ast-visualizer](https://github.com/Up05/ast-visualizer): A simple visualizer for Abstract Syntax Trees, it takes in basic Lisp-like text (A (A B)) and displays it as a vertical tree (think lsblk or TREE)
 - [sfx-picker](https://github.com/Up05/Sfx-Picker): (Windows) (Old) Soundboard...
