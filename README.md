@@ -23,6 +23,7 @@ List of things I've published:
 - [edit-clips](https://github.com/Up05/ClipEditorV5) (v ±5): (Windows) A video editor made to slice & splice short videos as fast as possible, because I have thousands of them. Uses FFMPEG. concats everything into one long video.
 - [odin-date-parser](https://github.com/Up05/odin-RFC-3339-date-parser): I didn't know odin-lang had this when I made it, but the official version is, in my opinion, still more cumbersome than mine.
 - [odin-toml-parser](https://github.com/Up05/toml_parser): Exactly that, although, it has it's own ideas, i.e.: you can specify a backup compile-time config to use, if the key is not in the current config.
+- [odin-html-parser](https://github.com/Up05/ohtml): A loose HTML parser for odin lang. Fast to compile too (at least, for the LLVM backend).
 - [img2ascii2](https://github.com/Up05/img_to_ascii2): (Windows) Odin-lang version of an old project I made with NodeJS. It takes in an image (I think, .png or .jpg), converts it to basic text in the terminal and prints it to stdout.
 - asteroids [Java](https://github.com/Up05/aSteROidS-Original) & [C](https://github.com/Up05/aSteROidS): (Windows) my first bigger GLFW (LWJGL and GLFW) projects, I thought this was the Asteroids game, I later learned, that I was wrong...
 
