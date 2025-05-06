@@ -1,10 +1,10 @@
 ###
 I do coding.
 
-I try to make my programs as simple and as fast to use as possible.
+I try to make interesting and crisp pieces of software. Tools that just feel good to work with. The user should never have to wait for feedback (even on startup), miss a button or get lost in my GUIs, they also should not use the wrong flag in my CLIs or get weird data out my libraries. 
 
-I have never managed to build a make/cmake/ninja/visual studio project on Windows and only once on Linux, because of that, I try to use as few libraries as possible and for C/C++/Odin projects I have `compile.bat` or `compile.sh` script, while Java ones, idfk... It's some IntelliJ/maven bullsh*t... I don't like it, but can't do anything about it..
-For Web stuff, I only use HTML, JS (sometimes p5js.org) & CSS (used to use SCSS).  
+I have never managed to build a make/cmake/ninja/visual studio project on Windows, so I try to use as few libraries as possible and for C/C++/Odin projects I have `compile.bat` or `compile.sh` script, while Java ones, idfk... It's some IntelliJ/maven bullsh*t... I don't like it, but can't do anything about it..
+For Web stuff, I only use HTML, JS (sometimes with p5js.org and jquery) & CSS (used to use SCSS).  
 
 *I have only been coding for 4/5 years now, so many of my earlier projects may not work on your system due to pathing errors, plus I only used Windows until 2024-08~15.  
 Also, due to this lack of age, my philosophy, project structures and more have changed a lot, I've dabbled in many ways to package my applications and, at certain points in time, I have been a library junkie, take the previous paragraph with a grain of salt.*
